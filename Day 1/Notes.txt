@@ -1,0 +1,76 @@
+
+Good Afternoon!
+
+Python:
+-----------------
+
+High level 
+
+-> Interpreted : line by line execution. ex: Python
+-> compiled : Entire program will be executed at one go process
+  ex: C,C#,...
+Python is case sensitive
+
+Name != name
+
+name = "syam"
+
+Dynamic: 
+1) we no need to mention the data type of the variable
+2) There is automatic garbage collection in python
+=> unused variables/values will be automatically
+deleted from the memory
+
+Programming : Writing the instructions
+Code : The instructions we write
+
+Types of Programming:
+------------------------------------------
+Procedural Programming/Functional : C, Python
+
+Objected Oriented Programming : Python, Java, C++
+
+Install jupyter notebook:
+-------------------------------------------
+pip install jupyter
+
+(pip: python package installer)
+
+
+cmd :  jupyter notebook
+
+Literate Programming:
+---------------------------------------
+Combination of documentation and code
+
+
+
+
+Markdown language
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ubuntu : sudo apt-get install python2.6
