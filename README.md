@@ -12,3 +12,9 @@ Welcome to APSSDC Python Programming workshop this repository consists of all th
   - Jupyter Notebook Environment
   - Markdown format for documentation
  
+[Day 2 Video Link](https://transcripts.gotomeeting.com/#/s/a0e16d78d1210672a1c764045d41e35ac1b676b28dd6323a66922370261840cf)
+  - python basics 
+  - Variable Declaration
+  - Data types
+  - Operators 
+  - few Built in functions
