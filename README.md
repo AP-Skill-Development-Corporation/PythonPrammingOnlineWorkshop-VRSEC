@@ -22,3 +22,9 @@ Welcome to APSSDC Python Programming workshop this repository consists of all th
 [Day 3 Video Link](https://transcripts.gotomeeting.com/#/s/73f2ab679b7ccaf965cc7ff1faf7cef93bc64e83e9a9ed6409f4067e33a17218)
   - Strings
   - Functions
+
+[Day 4 Video Link](https://transcripts.gotomeeting.com/#/s/c89785c0dccf5d217dfbb43856635c5570cec8204118fd2424dbf2f717602388)
+  - Functions continue
+  - Conditional statements
+  - Loops
+  - Data structures
