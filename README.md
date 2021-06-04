@@ -28,3 +28,8 @@ Welcome to APSSDC Python Programming workshop this repository consists of all th
   - Conditional statements
   - Loops
   - Data structures
+[Day 5 Video Link]()
+  - Dictionaries
+  - Sets
+  - Files
+  - Regular Expressions
